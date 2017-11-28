@@ -23,10 +23,12 @@ Planificació:
     ```
 1. [ ] Crear els html corresponents per les pàgines dels menús *About*, *How to play* ...
 1. [ ] Crear arxius CSS de les pàgines de menú
-1. [ ] Aconseguir imàtges.
-    - [x] Lluna (https://openclipart.org/detail/20299/moon-in-comic-style)
-    - [x] Nau (https://openclipart.org/detail/28806/a-cartoon-moon-rocket)
-    - [x] Espai (fons) (https://opengameart.org/content/space-backdrop)
+1. [x] Aconseguir imàtges.
+    - [x] [Lluna](https://openclipart.org/detail/20299/moon-in-comic-style)
+    - [x] [Nau](https://openclipart.org/detail/28806/a-cartoon-moon-rocket)
+    - [x] [Espai](https://opengameart.org/content/space-backdrop) (fons)
+    - [x] Les imatges són obtingudes de galeries OpenSource
+1. [x] Reducció d'imatges per [Tinypng](https://tinypng.com/)
 1. [ ] Disenyar una paleta de colors adaptada a les imatges
 1. [ ] Aplicar Sprites
 1. [ ] Validació
