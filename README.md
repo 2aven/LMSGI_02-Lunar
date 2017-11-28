@@ -2,13 +2,19 @@
 ## Lunar Landing (HTML i CSS)
 
 Planificació:
-1. [ ] Diseny principal del HTML segons el StoryBoard, primer en format d'escriptori (index-d.html vinculat a d.css)
+1. [ ] Diseny principal del HTML segons el StoryBoard, primer en format d'escriptori
     Ha de contenir:
-    - [ ] Control Panel (Altura / Velocitat / Combustible ...)
-    - [ ] Game Options (Pause / About / How to play)
-    - [ ] Nau
-    - [ ] Dotar la pàgina de colors de guía (no definitius)
-1. [ ] Copiar-ho per adaptar a format smartphone ( -> index.m.html vinculat a m.css)
+    - [x] index-d.html vinculat a d.css
+    ```ruby
+    <link rel="stylesheet" type="text/css" href="css/d.css"> 
+    ```
+    - [x] Control Panel (Altura / Velocitat / Combustible ...)
+    - [x] (Menú-enllaços) Game Options (Pause / About / How to play)
+    - [x] Nau
+    - [x] Àrea d'aterratge
+    - [x] Dotar la pàgina de colors de guía (no definitius)
+    - [ ] ajuda.html vinculat a ajuda.css
+1. [ ] Copiar-ho per adaptar a format smartphone ( -> index-m.html vinculat a m.css)
 1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
     ```ruby  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -18,6 +24,9 @@ Planificació:
 1. [ ] Crear els html corresponents per les pàgines dels menús *About*, *How to play* ...
 1. [ ] Crear arxius CSS de les pàgines de menú
 1. [ ] Aconseguir imàtges.
+    - [x] Lluna (https://openclipart.org/detail/20299/moon-in-comic-style)
+    - [x] Nau (https://openclipart.org/detail/28806/a-cartoon-moon-rocket)
+    - [x] Espai (fons) (https://opengameart.org/content/space-backdrop)
 1. [ ] Disenyar una paleta de colors adaptada a les imatges
 1. [ ] Aplicar Sprites
 1. [ ] Validació
