@@ -1,0 +1,77 @@
+html{
+	background-color: black;
+	background-image: url("../img/fons.png");
+	font-family: Arial;
+	color: #CCCCCC;
+}
+#cpanel{
+	max-width: 30%;
+	max-height: 50%;
+	position: fixed;
+	left: 4%;
+	top:50%;
+	background-color: #FF9C00;
+}
+#nau{
+	text-align:center;
+	position: fixed;
+	left: 47%;
+	height: 12%; 
+	top: 5%;
+}
+#lluna{
+	height:15%;
+	width:100%;
+	position:fixed;
+	bottom:0px; left:0px;	
+}
+#img-lluna,#img-nau{
+	height: 100%; 
+	width: 100%;
+}
+table {	border-collapse: collapse;}
+td{
+	padding: 8px;
+	text-align:left;
+}
+tr{
+	width: auto; height: auto;
+	background-color: #CCCCCC;
+	padding: 2px;
+	border-style: outset;
+	border-color: #7BDDF6;
+	padding: 2px;
+	color: #A600FF;
+}
+#opcions{
+	padding: 8px;
+	position: fixed;
+	right: 4%;
+	top: 5%;
+	border-style: outset;
+	border-color: #7BDDF6;
+	background-color: #CCCCCC;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+	padding:0;
+}
+a{
+	display: block;
+	text-decoration: none;
+	padding: 14px 16px;
+	text-align: center;
+	color: #A600FF;
+}
+#pausa:active {border-style: inset;}
+#pausa:hover {background-color: #7BDDF6;}
+#reinicia:active {border-style: inset;}
+#reinicia:hover {background-color: #7BDDF6;}
+#ajuda:active {border-style: inset;}
+#ajuda:hover {background-color: #7BDDF6;}
+.activat{
+	border-style: outset;
+	background-color: #FF9C00;}
+}

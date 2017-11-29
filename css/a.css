@@ -1,0 +1,64 @@
+html{
+	background-color: black;
+	background-image: url("../img/fons.png");
+	font-family: Arial;
+	color: #F3F3F3;
+}
+#ctxt{
+	text-align: left;
+	position: fixed;
+	margin: 0 auto;
+	width: 60%; 
+	top: 10%;
+	left: 10%;
+}
+h3{	text-align: center;}
+#nau{
+	text-align: center;
+	position: fixed;
+	left: 47%;
+	height: 12%; 
+	bottom: 10%;
+}
+#lluna{
+	height:15%;
+	width:100%;
+	position:fixed;
+	bottom:0px; left:0px;	
+}
+#img-lluna,#img-nau{
+	height: 100%; 
+	width: 100%;
+}
+#opcions{
+	padding: 8px;
+	position: fixed;
+	right: 4%;
+	top: 5%;
+	border-style: outset;
+	border-color: #7BDDF6;
+	background-color: #CCCCCC;
+}
+ul{
+	list-style-type: none;
+	margin: 0;
+	overflow: hidden;
+	padding:0;
+}
+a{
+	display: block;
+	text-decoration: none;
+	padding: 14px 16px;
+	text-align: center;
+	color: #A600FF;
+}
+#pausa:active {border-style: inset;}
+#pausa:hover {background-color: #7BDDF6;}
+#reinicia:active {border-style: inset;}
+#reinicia:hover {background-color: #7BDDF6;}
+#ajuda:active {border-style: inset;}
+#ajuda:hover {background-color: #7BDDF6;}
+.activat{
+	border-style: outset;
+	background-color: #FF9C00;}
+}
