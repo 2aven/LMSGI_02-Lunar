@@ -2,9 +2,9 @@
 ## Lunar Landing (HTML i CSS)
 
 Planificació:
-1. [ ] Diseny principal del HTML segons el StoryBoard, primer en format d'escriptori
+1. [x] Diseny principal del HTML segons el StoryBoard, primer en format d'escriptori (*desktop*)
     Ha de contenir:
-    - [x] index-d.html vinculat a d.css
+    - [x] *index-d.html* vinculat a *d.css*
     ```ruby
     <link rel="stylesheet" type="text/css" href="css/d.css"> 
     ```
@@ -13,16 +13,15 @@ Planificació:
     - [x] Nau
     - [x] Àrea d'aterratge
     - [x] Dotar la pàgina de colors de guía (no definitius)
-    - [ ] ajuda.html vinculat a ajuda.css
-1. [ ] Copiar-ho per adaptar a format smartphone ( -> index-m.html vinculat a m.css)
+    - [x] *ajuda.html* vinculat a *a.css*
+1. [x] Copiar-ho per adaptar a format *mobile* per smartphone ( -> *index-m.html* vinculat a *m.css*)
+    - [x] Guardar-ho a una branca github: *inicial*
 1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
     ```ruby  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/d.css'>
     <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
     ```
-1. [ ] Crear els html corresponents per les pàgines dels menús *About*, *How to play* ...
-1. [ ] Crear arxius CSS de les pàgines de menú
 1. [x] Aconseguir imàtges.
     - [x] [Lluna](https://upload.wikimedia.org/wikipedia/commons/4/42/The-surface_of_the_moon.png)
     - [x] [Nau](https://openclipart.org/detail/28806/a-cartoon-moon-rocket)
