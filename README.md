@@ -14,14 +14,6 @@ Planificació:
     - [x] Àrea d'aterratge
     - [x] Dotar la pàgina de colors de guía (no definitius)
     - [x] *ajuda.html* vinculat a *a.css*
-1. [x] Copiar-ho per adaptar a format *mobile* per smartphone ( -> *index-m.html* vinculat a *m.css*)
-    - [x] Guardar-ho a una branca github: *inicial*
-1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
-    ```ruby  
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/d.css'>
-    <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
-    ```
 1. [x] Aconseguir imàtges.
     - [x] [Lluna](https://upload.wikimedia.org/wikipedia/commons/4/42/The-surface_of_the_moon.png)
     - [x] [Nau](https://openclipart.org/detail/28806/a-cartoon-moon-rocket)
@@ -34,6 +26,14 @@ Planificació:
     * Morat: A600FF
     * Taronja: FF9C00
     * Cel: 7BDDF6
+1. [x] Copiar-ho per adaptar a format *mobile* per smartphone ( -> *index-m.html* vinculat a *m.css*)
+    - [x] Guardar-ho a una branca github: *inicial*
+1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
+    ```ruby  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/d.css'>
+    <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
+    ```
 1. [ ] Aplicar Sprites
 1. [ ] Validació
 1. [ ] Crear una branca github amb versió mimificada
