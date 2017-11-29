@@ -39,8 +39,8 @@ Planificació:
     <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
     ```
 1. [ ] Aplicar Sprites
-1. [ ] [Validació][Validator]
-1. [ ] Crear una branca github amb versió mimificada
-    - [ ] [Validació][Validator]
+1. [x] [Validació][Validator]
+1. [x] Crear una branca github amb versió mimificada
+    - [x] [Validació][Validator]
 
 [Validator]: https://validator.w3.org/
