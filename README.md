@@ -27,6 +27,8 @@ Planificació:
     * Taronja: FF9C00
     * Cel: 7BDDF6
 1. [x] Copiar-ho per adaptar a format *mobile* per smartphone ( -> *index-m.html* vinculat a *m.css*)
+1. [x] Validar les pàgines (aplicar correccións)
+    - [x] inclourer ```lang="ca"``` a l'etiqueta *meta*.
     - [x] Guardar-ho a una branca github: *inicial*
 1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
     ```ruby  
