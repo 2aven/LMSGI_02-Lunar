@@ -1,7 +1,7 @@
 # LMSGI_02-Lunar
 ## Lunar Landing (HTML i CSS)
 
-### [Aterratge Lunar](https://rawgit.com/2aven/LMSGI_02-Lunar/master/index.html)
+### [Aterratge Lunar](https://github.com/2aven/LMSGI_02-Lunar/blob/minify/index.html)
 
 Planificació:
 1. [x] Diseny principal del HTML segons el StoryBoard, primer en format d'escriptori (*desktop*)
@@ -39,8 +39,8 @@ Planificació:
     <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
     ```
 1. [ ] Aplicar Sprites
-1. [ ] [Validació][Validator]
-1. [ ] Crear una branca github amb versió mimificada
-    - [ ] [Validació][Validator]
+1. [x] [Validació][Validator]
+1. [x] Crear una branca github amb versió mimificada
+    - [x] [Validació][Validator]
 
 [Validator]: https://validator.w3.org/
