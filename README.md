@@ -29,8 +29,8 @@ Planificació:
 1. [x] Copiar-ho per adaptar a format *mobile* per smartphone ( -> *index-m.html* vinculat a *m.css*)
 1. [x] [Validar][Validator] les pàgines (aplicar correccións)
     - [x] inclourer ```lang="ca"``` a l'etiqueta *meta*.
-    - [x] Guardar-ho a una branca github: *inicial*
-1. [ ] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
+    - [x] Guardar-ho a una branca github: [*inicial*](https://github.com/2aven/LMSGI_02-Lunar/tree/inicial)
+1. [x] Unificar els formats *Desktop* i *Mobile* a index.html mitjançant **media query**
     ```ruby  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/d.css'>
