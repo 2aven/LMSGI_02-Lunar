@@ -42,6 +42,6 @@ Planificació:
 1. [x] Crear una branca github amb versió mimificada
     - [x] [Validació][Validator]
 
-* Nota: No s'ha fet ús de Sprites, ja que per seguir amb les indicacións de fer el menú com a llista d'enllaços, s'han escrit de forma textual en lloc d'usar un grup d'imatges.
+* Nota: No s'ha fet ús de Sprites, ja que per seguir amb les indicacions de fer el menú com a llista d'enllaços, s'han escrit de forma textual en lloc d'usar un grup d'imatges.
 
 [Validator]: https://validator.w3.org/
