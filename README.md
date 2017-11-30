@@ -1,7 +1,8 @@
 # LMSGI_02-Lunar
 ## Lunar Landing (HTML i CSS)
 
-### [Aterratge Lunar](https://rawgit.com/2aven/LMSGI_02-Lunar/master/index.html)
+### [Aterratge Lunar] - desktop(https://rawgit.com/2aven/LMSGI_02-Lunar/inicial/index-d.html)
+### [Aterratge Lunar] - mobile(https://rawgit.com/2aven/LMSGI_02-Lunar/inicial/index-m.html)
 
 Planificació:
 1. [x] Disseny principal del HTML segons el StoryBoard, primer en format d'escriptori (*desktop*).
