@@ -38,9 +38,10 @@ Planificació:
     <link rel='stylesheet' media='screen and (min-width: 720px)' href='css/d.css'>
     <link rel='stylesheet' media='screen and (max-width: 720px)' href='css/m.css'>
     ```
-1. [ ] Aplicar Sprites
 1. [x] [Validació][Validator]
 1. [x] Crear una branca github amb versió mimificada
     - [x] [Validació][Validator]
+
+* Nota: No s'ha fet ús de Sprites, ja que per seguir amb les indicacións de fer el menú com a llista d'enllaços, s'han escrit de forma textual en lloc d'usar un grup d'imatges.
 
 [Validator]: https://validator.w3.org/
